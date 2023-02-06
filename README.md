@@ -2,6 +2,19 @@
 
 自担当の授業の時間割
 
+## 2/7 - 3/10
+
+| 時間 | 月 | 火 | 水 | 木 | 金 |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| 8:50 - 9:40 | |  |  |  | |
+| 9:45 - 10:35 | Android(2) | Android(2) | Android(2) | Android(2) | Android(2) |
+| 10:40 - 11:30 | Android(2) | Android(2) | Android(2) | Android(2) | Android(2) |
+| 11:35 - 12:25 | Android(2) | Android(2) | Android(2) | Android(2) | Android(2) |
+| 12:25 - 13:25 | 昼休み |  昼休み | 昼休み | 昼休み | 昼休み |
+| 13:25 - 14:15 | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) |
+| 14:20 - 15:10 | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) | Javascript(1、サブ) |
+| 15:15 - 16:05 | |  |  |  |  |
+
 ## 1/6 - 2/4
 
 | 時間 | 月 | 火 | 水 | 木 | 金 |
